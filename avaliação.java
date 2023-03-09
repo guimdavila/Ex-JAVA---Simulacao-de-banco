@@ -1,10 +1,7 @@
-
-
-1) Crie um programa que apresente um menu de opções para o usuário escolher, sendo possível realizar
+   /*1) Crie um programa que apresente um menu de opções para o usuário escolher, sendo possível realizar
 saques, depósitos, verificar o saldo atual e calcular uma simulação de juros sobre o saldo baseado em
 um número de meses fixos que o usuário digitar, também deverá conter uma verificação se o usuário
-possui saldo suficiente na hora de sacar. (Cada opção solicitada deverá estar em um método diferente)
-
+possui saldo suficiente na hora de sacar. (Cada opção solicitada deverá estar em um método diferente)*/
 
 
 import java.util.Scanner;
@@ -12,11 +9,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-    /*1) Crie um programa que apresente um menu de opções para o usuário escolher, sendo possível realizar
-saques, depósitos, verificar o saldo atual e calcular uma simulação de juros sobre o saldo baseado em
-um número de meses fixos que o usuário digitar, também deverá conter uma verificação se o usuário
-possui saldo suficiente na hora de sacar. (Cada opção solicitada deverá estar em um método diferente)*/
-
+ 
         Scanner input = new Scanner(System.in);
 
 
@@ -164,7 +157,6 @@ possui saldo suficiente na hora de sacar. (Cada opção solicitada deverá estar
     }
 
 }
-
 
 
 
