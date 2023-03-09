@@ -12,7 +12,6 @@ public class Main {
  
         Scanner input = new Scanner(System.in);
 
-        OPA 
         int sair = 0;
 
         double saldo_atual_dep = 0;
