@@ -159,13 +159,11 @@ public class Main {
 }
 
 
-
-
-2) Crie um programa que recebe uma frase e que retorne a contagem de palavras com mais de 5
+/* 2) Crie um programa que recebe uma frase e que retorne a contagem de palavras com mais de 5
 caracteres utilizando um método, crie outro método que retorne a quantidade de palavras que possuem
 vogais.
 (Você pode separar cada palavra de um array utilizando: seuArray[] = frase.split(“ ”), onde após o
-espaço ele irá definir como uma palavra separada)
+espaço ele irá definir como uma palavra separada)*/
 
 
 
